@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/d:Common/f:VectorEx.cs" caret="820" fromTop="0" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:OpenDoors.cs" caret="501" fromTop="16" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:BulletTimeManager.cs" caret="1221" fromTop="17" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:ShadowAlign.cs" caret="148" fromTop="7" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:ElectroFader.cs" caret="105" fromTop="7" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:WeightedItem.cs" caret="487" fromTop="13" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:LazyFollow.cs" caret="481" fromTop="8" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/d:Common/f:KeyboardManager.cs" caret="597" fromTop="11" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="868" fromTop="30" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="2472" fromTop="43" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:ElectroFader.cs" caret="161" fromTop="8" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:ElectroFader.cs" caret="256" fromTop="13" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:LazyFollow.cs" caret="481" fromTop="17" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="25741" fromTop="20" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="25916" fromTop="25" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:ShadowAlign.cs" caret="600" fromTop="22" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="3166" fromTop="29" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="2985" fromTop="23" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:WeightedItem.cs" caret="128" fromTop="8" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:WeightedItem.cs" caret="478" fromTop="11" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="4003" fromTop="16" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7187" fromTop="31" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="19" fromTop="0" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="2518" fromTop="19" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7633" fromTop="16" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7118" fromTop="9" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7633" fromTop="14" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="2530" fromTop="6" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="4003" fromTop="6" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="1275" fromTop="33" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="1102" fromTop="27" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="196" fromTop="11" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="439" fromTop="17" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="2476" fromTop="18" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7932" fromTop="24" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="3531" fromTop="19" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7896" fromTop="29" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="19" fromTop="0" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:FollowCamera.cs" caret="868" fromTop="30" />
+      <File id="5B903C59-684B-8442-1AFA-F620DEFC49AF/d:Assets/d:Scripts/f:PlayerControl.cs" caret="7283" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="active" priority="0" />
+      <Item value="Action`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

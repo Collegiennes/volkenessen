@@ -1,0 +1,42 @@
+DAY DREI
+--------
+
+SFX hooks
+Music
+logo graphic on doors
+breakables
+shadows
+achievements
+
+
+DAY ZWEI
+--------
+
+horizontal dash (annule gravité...?)
+1 dash par saut
+DONE - inverted controls
+DONE - gamepads
+DONE - auto-balancing based on stamina
+balancing weighted by stamina
+
+
+
+DAY EINS
+--------
+
+DONE - boxy dudes
+DONE - arms push around and hit
+DONE - two arms
+DONE - any direction
+DONE - 2d physics, with rotation
+DONE - throw arm in closest direction to aim
+DONE - cooldown on each arm, two quick hits = 2 arms
+velocity of impact defines damage
+DONE - un peu de recoil sur chaque coup
+DONE - ceiling height = "double jump", first jump 3/4, second "jump" (mid air dash) 1/4
+accessoires random à chaque "spawn", le gagnant respawn -- random colors
+infinite gameplay
+random rotation on death
+stamina bar, auto regenerate
+elasticity des murs?
+dizzy when stamina = 0 for short time, can eat with space
